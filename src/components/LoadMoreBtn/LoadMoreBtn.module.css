@@ -1,0 +1,15 @@
+.btn {
+    color: #fff;
+    
+    min-width: 100px;
+    padding: 12px 20px;
+    border: none;
+    background-color: darkblue;
+    border-radius: 10px;
+}
+
+.btnWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

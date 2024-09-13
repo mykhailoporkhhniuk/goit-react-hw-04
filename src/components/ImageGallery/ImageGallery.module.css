@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+
+.listItem:hover {
+    scale: 1.04;
+    cursor: zoom-in;
+}
